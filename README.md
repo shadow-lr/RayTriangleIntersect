@@ -1,2 +1,3 @@
-# RayTriangleIntersect
-基于Möller-Trumbore算法判定空间内射线与三角形面是否相交的推导与实践，用于计算机图形学中光线追踪，光线与三角形的相交判定
+### 算法原理说明见文章
+
+https://juejin.cn/post/6950262701377945613
